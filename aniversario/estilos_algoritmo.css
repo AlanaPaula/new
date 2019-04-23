@@ -1,0 +1,53 @@
+@charset "UTF-8";
+
+/* " */
+/* algoritmo_birth.html " body { */
+/* 	/* 	background-image: url(brigadeiros.jpg); */
+/* * / */
+/* 	background-attachment: fixed; */
+/* 	background-size: 100%; */
+/* 	background-repeat: no-repeat; */
+/* 	color: #black; */
+/* 	margin-left: 25%; */
+/* 	text-align: justify; */
+/* 	font: italic bold 160% "Audrey"; */
+/* 	height: auto; */
+/* 	width: auto; */
+/* } */
+body {
+	width: 100%;
+	background-color: #000000;
+}
+
+header {
+	width: auto;
+	height: auto;
+	background-color: #000000;
+}
+
+.algoritmo {
+	color: #ffffff;
+}
+.exec {
+color: #ffffff;	
+}
+
+.algo {
+	text-align: justify;
+	font: italic bold "Audrey";
+	color: #ffffff;
+}
+
+article {
+	color: #ffffff;
+}
+
+ul {
+	color: #ffffff;
+}
+
+h1 {
+	text-align: justify;
+	text-decoration: none;
+	font: italic bold 270% "Audrey";
+}
